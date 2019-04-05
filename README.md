@@ -8,7 +8,7 @@ IMDb is an online database of information related to films, television programs,
 * **ML problem** : Sentiment Analysis
 * **Algorithms**: Logistic Regression,Multinomial Naive Bayes,Decision Tree Classifier,Random Forest Classifier, KMeans Clustering
 * **Technologies**: sklearn, nltk, WordCloud
-* **Data**: IMDb review dataset (https://drive.google.com/file/d/1PhnmoEP-EnPLny03WZX5L39M2ewmXdMC/view?usp=sharing)
+* **Data**: [IMDb review dataset] (https://drive.google.com/file/d/1PhnmoEP-EnPLny03WZX5L39M2ewmXdMC/view?usp=sharing)
 * **Implementation**: Jupyter Notebook
 
 
