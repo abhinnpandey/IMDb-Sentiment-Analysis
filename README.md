@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis on Movie Reviwes
+# IMDb Sentiment Analysis on Movie Reviwes
 
 ## Dataset Overview
 
